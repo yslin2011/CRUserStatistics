@@ -1,0 +1,6 @@
+framework module CRUserStatisticsSDK {
+  umbrella header "CRUserStatisticsSDK.h"
+
+  export *
+  module * { export * }
+}

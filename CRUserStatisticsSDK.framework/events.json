@@ -1,0 +1,447 @@
+{
+    "ID_ALBUM_MODULE_TYPE": {
+        "event_ID": "id_album_module_type",
+        "event_des": "相册",
+        "event_name": "我的模块点击"
+    },
+    "ID_APPSTORE_MODULE_TYPE": {
+        "event_ID": "id_appstore_module_type",
+        "event_des": "应用商店",
+        "event_name": "办公模块点击"
+    },
+    "ID_APPVERSION_MODULE_TYPE": {
+        "event_ID": "id_appversion_module_type",
+        "event_des": "版本信息",
+        "event_name": "我的模块点击"
+    },
+    "ID_CLEAR_ALLMESSAGEHISTORY": {
+        "event_ID": "id_clear_allmessagehistory",
+        "event_des": "清空聊天记录",
+        "event_name": "个性化设置"
+    },
+    "ID_COLLECT_WORKCIRCLR": {
+        "event_ID": "id_collect_workcirclr",
+        "event_des": "收藏朋友圈",
+        "event_name": "工作圈"
+    },
+    "ID_COMMENT_WORKCIRCLE": {
+        "event_ID": "id_comment_workcircle",
+        "event_des": "朋友圈评论",
+        "event_name": "工作圈"
+    },
+    "ID_CONTACT_ADD_MODULE_TYPE": {
+        "event_ID": "id_contact_add_module_type",
+        "event_des": "添加",
+        "event_name": "通讯录模块点击"
+    },
+    "ID_CONTACT_ENTERPRISE_PHONE_MODULE_TYPE": {
+        "event_ID": "id_contact_enterprise_phone_module_type",
+        "event_des": "企业联系人",
+        "event_name": "通讯录模块点击"
+    },
+    "ID_CONTACT_EXTERNAL_MODULE_TYPE": {
+        "event_ID": "id_contact_external_module_type",
+        "event_des": "外部联系人",
+        "event_name": "通讯录模块点击"
+    },
+    "ID_CONTACT_GROUP_ADD_MODULE_TYPE": {
+        "event_ID": "id_contact_group_add_module_type",
+        "event_des": "建群",
+        "event_name": "通讯录模块点击"
+    },
+    "ID_CONTACT_GROUP_MODULE_TYPE": {
+        "event_ID": "id_contact_group_module_type",
+        "event_des": "群组",
+        "event_name": "通讯录模块点击"
+    },
+    "ID_CONTACT_MARK_MODULE_TYPE": {
+        "event_ID": "id_contact_mark_module_type",
+        "event_des": "标签",
+        "event_name": "通讯录模块点击"
+    },
+    "ID_CONTACT_MODULE_TYPE": {
+        "event_ID": "id_contact_module_type",
+        "event_des": "进入通讯录页面",
+        "event_name": "通讯录模块点击"
+    },
+    "ID_CONTACT_NEWFRIEND_MODULE_TYPE": {
+        "event_ID": "id_contact_newfriend_module_type",
+        "event_des": "新的朋友",
+        "event_name": "通讯录模块点击"
+    },
+    "ID_CONTACT_PERSONDETAIL_MODULE_TYPE": {
+        "event_ID": "id_contact_persondetail_module_type",
+        "event_des": "个人详情",
+        "event_name": "通讯录模块点击"
+    },
+    "ID_CONTACT_PHONE_MODULE_TYPE": {
+        "event_ID": "id_contact_phone_module_type",
+        "event_des": "手机联系人",
+        "event_name": "通讯录模块点击"
+    },
+    "ID_CONTACT_PUBLICACCOUT_MODULE_TYPE": {
+        "event_ID": "id_contact_publicaccout_module_type",
+        "event_des": "公众号",
+        "event_name": "通讯录模块点击"
+    },
+    "ID_CONTACT_SEARCH_MODULE_TYPE": {
+        "event_ID": "id_contact_search_module_type",
+        "event_des": "搜索",
+        "event_name": "通讯录模块点击"
+    },
+    "ID_DEFAULTINDEX_MODULE_TYPE": {
+        "event_ID": "id_defaultindex_module_type",
+        "event_des": "登录后显示默认首页",
+        "event_name": "我的模块点击"
+    },
+    "ID_DEFAULT_SHOW": {
+        "event_ID": "id_default_show",
+        "event_des": "设置登录后默认显示首页",
+        "event_name": "个性化设置"
+    },
+    "ID_DEVICE_UNBIND": {
+        "event_ID": "id_device_unbind",
+        "event_des": "设备解除绑定",
+        "event_name": "个性化设置"
+    },
+    "ID_DOCMENT_CENTER_MODULE_TYPE": {
+        "event_ID": "id_docment_center_module_type",
+        "event_des": "文档中心",
+        "event_name": "办公模块点击"
+    },
+    "ID_FACE_LIVING_MODULE_TYPE": {
+        "event_ID": "id_face_living_module_type",
+        "event_des": "人脸识别",
+        "event_name": "办公模块点击"
+    },
+    "ID_FONTSIZE_MODULE_TYPE": {
+        "event_ID": "id_fontsize_module_type",
+        "event_des": "字体大小",
+        "event_name": "我的模块点击"
+    },
+    "ID_IMAIL_MODULE_TYPE": {
+        "event_ID": "id_imail_module_type",
+        "event_des": "进入邮箱页面",
+        "event_name": "邮箱模块点击"
+    },
+    "ID_LOCALIZATION_MODULE_TYPE": {
+        "event_ID": "id_localization_module_type",
+        "event_des": "国际化",
+        "event_name": "我的模块点击"
+    },
+    "ID_LOGOUT_APP": {
+        "event_ID": "id_logout_app",
+        "event_des": "App退出",
+        "event_name": "App状态"
+    },
+    "ID_MAP_MODULE_TYPE": {
+        "event_ID": "id_map_module_type",
+        "event_des": "地图页面",
+        "event_name": "我的模块点击"
+    },
+    "ID_MEDETAIL_MODULE_TYPE": {
+        "event_ID": "id_medetail_module_type",
+        "event_des": "我的详情",
+        "event_name": "我的模块点击"
+    },
+    "ID_MESSAGE_TIP_MODULE_TYPE": {
+        "event_ID": "id_message_tip_module_type",
+        "event_des": "消息设置",
+        "event_name": "我的模块点击"
+    },
+    "ID_ME_MODULE_TYPE": {
+        "event_ID": "id_me_module_type",
+        "event_des": "我",
+        "event_name": "我的模块点击"
+    },
+    "ID_MSG_DETAIL_MODULE_TYPE": {
+        "event_ID": "id_msg_detail_module_type",
+        "event_des": "聊天详情",
+        "event_name": "消息模块点击"
+    },
+    "ID_MSG_FILES_MODULE_TYPE": {
+        "event_ID": "id_msg_files_module_type",
+        "event_des": "聊天文件",
+        "event_name": "消息模块点击"
+    },
+    "ID_MSG_HISTORYSEARCH_MODULE_TYPE": {
+        "event_ID": "id_msg_historysearch_module_type",
+        "event_des": "聊天记录",
+        "event_name": "消息模块点击"
+    },
+    "ID_MSG_MODULE_TYPE": {
+        "event_ID": "id_msg_module_type",
+        "event_des": "聊天界面",
+        "event_name": "消息模块点击"
+    },
+    "ID_MSG_SETBACKGROUND_MODULE_TYPE": {
+        "event_ID": "id_msg_setbackground_module_type",
+        "event_des": "设置聊天背景",
+        "event_name": "消息模块点击"
+    },
+    "ID_MYCOLLECTION_MODULE_TYPE": {
+        "event_ID": "id_mycollection_module_type",
+        "event_des": "我的收藏",
+        "event_name": "我的模块点击"
+    },
+    "ID_NETWORK_DIAGNOSIS_MODULE_TYPE": {
+        "event_ID": "id_network_diagnosis_module_type",
+        "event_des": "网络诊断",
+        "event_name": "办公模块点击"
+    },
+    "ID_NONO_DEFINE": {
+        "event_ID": "id_nono_define",
+        "event_des": "未定义的描述",
+        "event_name": "未定义的名称"
+    },
+    "ID_OCR_MODULE_TYPE": {
+        "event_ID": "id_ocr_module_type",
+        "event_des": "OCR",
+        "event_name": "办公模块点击"
+    },
+    "ID_OFFICE_MODULE_TYPE": {
+        "event_ID": "id_office_module_type",
+        "event_des": "进入办公主页",
+        "event_name": "办公页面"
+    },
+    "ID_PERSONITY_CONFIG_MODULE_TYPE": {
+        "event_ID": "id_personity_config_module_type",
+        "event_des": "个性化设置",
+        "event_name": "我的模块点击"
+    },
+    "ID_PUBLISH_WORKCIRCLE_MODULE_TYPE": {
+        "event_ID": "id_publish_workcircle_module_type",
+        "event_des": "发送朋友圈",
+        "event_name": "我的模块点击"
+    },
+    "ID_SECURITY_AND_PRIVACY_MODULE_TYPE": {
+        "event_ID": "id_security_and_privacy_module_type",
+        "event_des": "安全与隐私",
+        "event_name": "我的模块点击"
+    },
+    "ID_SETUP_FINGERLOGIN": {
+        "event_ID": "id_setup_fingerlogin",
+        "event_des": "设置手势登录",
+        "event_name": "个性化设置"
+    },
+    "ID_SETUP_FONTSIZE": {
+        "event_ID": "id_setup_fontsize",
+        "event_des": "设置字大小",
+        "event_name": "个性化设置"
+    },
+    "ID_SETUP_GESTURELOGIN": {
+        "event_ID": "id_setup_gesturelogin",
+        "event_des": "设置手势登录",
+        "event_name": "个性化设置"
+    },
+    "ID_SETUP_LOCALIZATION": {
+        "event_ID": "id_setup_localization",
+        "event_des": "设置本地化语言",
+        "event_name": "个性化设置"
+    },
+    "ID_SETUP_MESSAGETIP": {
+        "event_ID": "id_setup_messagetip",
+        "event_des": "消息通知设置",
+        "event_name": "个性化设置"
+    },
+    "ID_SETUP_THEME": {
+        "event_ID": "id_setup_theme",
+        "event_des": "设置主题",
+        "event_name": "个性化设置"
+    },
+    "ID_START_APP": {
+        "event_ID": "id_start_app",
+        "event_des": "App启动",
+        "event_name": "App状态"
+    },
+    "ID_THEME_MODULE_TYPE": {
+        "event_ID": "id_theme_module_type",
+        "event_des": "主题设置",
+        "event_name": "我的模块点击"
+    },
+    "ID_TYPE_ADDFRIEDN": {
+        "event_ID": "id_type_addfriedn",
+        "event_des": "添加好友",
+        "event_name": "通讯录好友详情"
+    },
+    "ID_TYPE_ADDFRIEND_SCANQRCODE": {
+        "event_ID": "id_type_addfriend_scanqrcode",
+        "event_des": "扫描二维码添加好友",
+        "event_name": "添加朋友页面"
+    },
+    "ID_TYPE_ADDFRIEND_SEARCH": {
+        "event_ID": "id_type_addfriend_search",
+        "event_des": "新的朋友页面搜索",
+        "event_name": "通讯录新的朋友"
+    },
+    "ID_TYPE_CONTECT_SEARCH": {
+        "event_ID": "id_type_contect_search",
+        "event_des": "通讯录顶部账号名称搜索",
+        "event_name": "通讯录模块"
+    },
+    "ID_TYPE_ENTERPRISE_SEARCH": {
+        "event_ID": "id_type_enterprise_search",
+        "event_des": "工作联系人搜索",
+        "event_name": "工作通讯录页面"
+    },
+    "ID_TYPE_EXTERNALCONTACT_IMPORT": {
+        "event_ID": "id_type_externalcontact_import",
+        "event_des": "外部联系人导入",
+        "event_name": "外部联系人"
+    },
+    "ID_TYPE_FIXEMAIL": {
+        "event_ID": "id_type_fixemail",
+        "event_des": "修改邮箱",
+        "event_name": "个人详情"
+    },
+    "ID_TYPE_FIXPHONENUM": {
+        "event_ID": "id_type_fixphonenum",
+        "event_des": "修改手机",
+        "event_name": "个人详情"
+    },
+    "ID_TYPE_FIXSIGN": {
+        "event_ID": "id_type_fixsign",
+        "event_des": "修改个性签名",
+        "event_name": "个人详情"
+    },
+    "ID_TYPE_FIXTELNUM": {
+        "event_ID": "id_type_fixtelnum",
+        "event_des": "修改电话",
+        "event_name": "个人详情"
+    },
+    "ID_TYPE_GROUPCHAT_ADD": {
+        "event_ID": "id_type_groupchat_add",
+        "event_des": "群组页面建群",
+        "event_name": "通讯录模块"
+    },
+    "ID_TYPE_GROUP_SEARCH": {
+        "event_ID": "id_type_group_search",
+        "event_des": "群组页面群名搜索",
+        "event_name": "通讯录模块"
+    },
+    "ID_TYPE_MARK_ADD": {
+        "event_ID": "id_type_mark_add",
+        "event_des": "标签添加",
+        "event_name": "新建标签"
+    },
+    "ID_TYPE_MERGEFORWORD": {
+        "event_ID": "id_type_mergeforword",
+        "event_des": "合并转发",
+        "event_name": "消息页面"
+    },
+    "ID_TYPE_MESSAGEFORWORD": {
+        "event_ID": "id_type_messageforword",
+        "event_des": "消息转发",
+        "event_name": "消息页面"
+    },
+    "ID_TYPE_MESSAGE_COLLECTION": {
+        "event_ID": "id_type_message_collection",
+        "event_des": "消息收藏",
+        "event_name": "消息页面"
+    },
+    "ID_TYPE_MESSAGE_DELATE": {
+        "event_ID": "id_type_message_delate",
+        "event_des": "消息删除",
+        "event_name": "消息页面"
+    },
+    "ID_TYPE_MESSAGE_RECALL": {
+        "event_ID": "id_type_message_recall",
+        "event_des": "消息撤回",
+        "event_name": "消息页面"
+    },
+    "ID_TYPE_MSG_CLEAR": {
+        "event_ID": "id_type_msg_clear",
+        "event_des": "清空聊天记录",
+        "event_name": "个性化设置"
+    },
+    "ID_TYPE_MSG_DELETA": {
+        "event_ID": "id_type_msg_deleta",
+        "event_des": "删除聊天会话",
+        "event_name": "消息页面"
+    },
+    "ID_TYPE_MSG_DONTDISTURB": {
+        "event_ID": "id_type_msg_dontdisturb",
+        "event_des": "消息免打扰",
+        "event_name": "个性化设置"
+    },
+    "ID_TYPE_MSG_TOP": {
+        "event_ID": "id_type_msg_top",
+        "event_des": "置顶聊天",
+        "event_name": "个性化设置"
+    },
+    "ID_TYPE_MUTIPLE_COLLECTION": {
+        "event_ID": "id_type_mutiple_collection",
+        "event_des": "批量收藏",
+        "event_name": "消息页面"
+    },
+    "ID_TYPE_MUTIPLE_DELETE": {
+        "event_ID": "id_type_mutiple_delete",
+        "event_des": "批量删除",
+        "event_name": "消息页面"
+    },
+    "ID_TYPE_NEWFRIENDSEACH": {
+        "event_ID": "id_type_newfriendseach",
+        "event_des": "新的朋友页面名称群名搜索",
+        "event_name": "通讯录模块"
+    },
+    "ID_TYPE_NEWFRIEND_SEARCH": {
+        "event_ID": "id_type_newfriend_search",
+        "event_des": "新的朋友页面名称群名搜索",
+        "event_name": "通讯录模块"
+    },
+    "ID_TYPE_PERSONDETAIL_VIEW": {
+        "event_ID": "id_type_persondetail_view",
+        "event_des": "查看个人详情",
+        "event_name": "通讯录模块"
+    },
+    "ID_TYPE_PHONECONTACT_SEARCH": {
+        "event_ID": "id_type_phonecontact_search",
+        "event_des": "手机联系人搜索",
+        "event_name": "手机联系人页面"
+    },
+    "ID_TYPE_PUBLICACCOUT_SEARCH_EXTRA": {
+        "event_ID": "id_type_publicaccout_search_extra",
+        "event_des": "公众号外部搜索",
+        "event_name": "添加朋友页面"
+    },
+    "ID_TYPE_PUBLICACCOUT_SEARCH_LIST": {
+        "event_ID": "id_type_publicaccout_search_list",
+        "event_des": "公众号列表搜索",
+        "event_name": "添加朋友页面"
+    },
+    "ID_TYPE_SEARCHCHAT": {
+        "event_ID": "id_type_searchchat",
+        "event_des": "查找聊天内容",
+        "event_name": "个性化设置"
+    },
+    "ID_TYPE_SEEMYDETAIl": {
+        "event_ID": "id_type_seemydetail",
+        "event_des": "查看个人详情",
+        "event_name": "设置页面"
+    },
+    "ID_TYPE_SENDMESSAGE": {
+        "event_ID": "id_type_sendmessage",
+        "event_des": "发送消息",
+        "event_name": "通讯录好友详情"
+    },
+    "ID_WORKCIRCLE_LOCATION": {
+        "event_ID": "id_workcircle_location",
+        "event_des": "发朋友圈定位",
+        "event_name": "工作圈"
+    },
+    "ID_WORKCIRCLE_MODULE_TYPE": {
+        "event_ID": "id_workcircle_module_type",
+        "event_des": "工作圈",
+        "event_name": "我的模块点击"
+    },
+    "ID_WORKCIRCLE_PULISH_AUTH": {
+        "event_ID": "id_workcircle_pulish_auth",
+        "event_des": "朋友圈查看权限",
+        "event_name": "工作圈"
+    },
+    "ID_WORKCIRCLE_TIP": {
+        "event_ID": "id_workcircle_tip",
+        "event_des": "朋友圈提醒查看",
+        "event_name": "工作圈"
+    }
+}
